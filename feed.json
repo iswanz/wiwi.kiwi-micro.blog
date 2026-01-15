@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://iswanz.micro.blog/2026/01/15/viagra-boys-at-the-powerstation.html",
+				
+				"content_html": "<p>Viagra Boys at the Powerstation. Amazing!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Viagra Boys at the Powerstation. Amazing!\n\n<img src=\"uploads/2026/a5e45392746b4088903dee39205add3f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-01-15T23:49:06+13:00",
+				"url": "https://wiwi.kiwi/2026/01/15/viagra-boys-at-the-powerstation.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://iswanz.micro.blog/2026/01/08/when-one-of-your-favourite.html",
+				
+				"content_html": "<p>When one of your favourite singers covers one of your favourite songs&hellip;\n<div class=\"musiclinks\" role=\"group\" aria-label=\"Listen on\"><div class=\"musiclinks-header\"><img class=\"musiclinks-cover\" src=\"https://i.scdn.co/image/ab67616d0000b273d2d4ce2d6cc83d71013e6770\" alt=\"Album cover forBlue Monday\" loading=\"lazy\"><div class=\"musiclinks-meta\">\n          <div class=\"musiclinks-title\">\n            <strong>Blue Monday</strong>\n          </div><div class=\"musiclinks-artist\">Matt Berninger</div></div>\n      </div><ul class=\"musiclinks-list\"><li>\n            <a href=\"https://geo.music.apple.com/nz/album/_/1857749456?mt=1&amp;app=music&amp;ls=1&amp;at=1000lHKX&amp;ct=api_http&amp;itscg=30200&amp;itsct=odsl_m\" rel=\"noopener\" target=\"_blank\" class=\"musiclinks-btnappleMusic\">\n                <svg class=\"icon apple\" viewBox=\"0 0 24 24\" aria-hidden=\"true\">\n                  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"4\" ry=\"4\" fill=\"#FA2D48\"/>\n                  <path d=\"M15.5 7.4 10 8.7v5.2a2 2 0 1 1-1.2-1.86V9.6l6.7-1.6v4.8a2 2 0 1 1-1.2-1.86V7.4z\" fill=\"#fff\"/>\n                </svg>\n                <span>Apple Music</span></a>\n          </li><li>\n            <a href=\"https://open.spotify.com/album/2Iod6OQ1bS54egpHCEmmJp\" rel=\"noopener\" target=\"_blank\" class=\"musiclinks-btnspotify\">\n                <svg class=\"icon spotify-i\" viewBox=\"0 0 24 24\" aria-hidden=\"true\">\n                  <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#1DB954\"/>\n                  <path d=\"M7.3 15a.8.8 0 0 0 .9.3 9.7 9.7 0 0 1 7.6.6.8.8 0 1 0 .7-1.5 10.8 10.8 0 0 0-9.2-.7.8.8 0 0 0-.4 1.3z\" fill=\"#fff\"/>\n                  <path d=\"M6.7 12.2a.9.9 0 0 0 1 .4 12 12 0 0 1 8.9.8.9.9 0 1 0 .8-1.5 13.5 13.5 0 0 0-10.1-.9.9.9 0 0 0-.6 1.2z\" fill=\"#fff\" opacity=\".9\"/>\n                  <path d=\"M6.4 9.5a1 1 0 0 0 1.2.4 14.5 14.5 0 0 1 9.8 1 .9.9 0 1 0 .8-1.6 16.3 16.3 0 0 0-11-1.1 1 1 0 0 0-.8 1.3z\" fill=\"#fff\" opacity=\".8\"/>\n                </svg>\n                <span>Spotify</span></a>\n          </li></ul>\n  </div>\n\n  <style>\n    .musiclinks {\n      border: 1px solid #ddd;\n      border-radius: 12px;\n      padding: 12px;\n      margin: 16px 0;\n      background: #fafafa;\n      max-width: 540px;\n      font-size: 0.92rem;\n    }\n\n    .musiclinks-header {\n      display: flex;\n      align-items: center;\n      gap: 16px;\n      margin-bottom: 12px;\n    }\n\n    .musiclinks-cover {\n      width: 120px;\n      height: 120px;\n      border-radius: 10px;\n      object-fit: cover;\n      flex-shrink: 0;\n      box-shadow: 0 2px 4px rgba(0,0,0,0.1);\n    }\n\n    .musiclinks-meta { display: flex; flex-direction: column; justify-content: center; }\n    .musiclinks-title { font-size: 1rem; line-height: 1.25; }\n    .musiclinks-artist { font-size: 0.9rem; color: #666; }\n\n    .musiclinks-list {\n      list-style: none;\n      padding: 0;\n      margin: 0;\n      display: flex;\n      flex-wrap: wrap;\n      gap: 0.4rem;\n    }\n\n    .musiclinks-btn {\n      display: inline-flex;\n      align-items: center;\n      gap: 0.3rem;\n      text-decoration: none;\n      border: 1px solid #ccc;\n      border-radius: 999px;\n      padding: 0.18rem 0.5rem;\n      font-size: 0.86em;\n      line-height: 1.1;\n      color: inherit;\n      transition: border-color 0.2s, background-color 0.2s;\n    }\n    .musiclinks-btn:hover { border-color: #999; background: #f5f5f5; }\n\n     \n    .icon { width: 14px; height: 14px; flex-shrink: 0; }\n\n     \n    .musiclinks-btn.appleMusic .icon.apple rect { fill: #FA2D48; }\n    .musiclinks-btn.appleMusic .icon.apple path { fill: #fff; }\n\n     \n    .musiclinks-btn.spotify .spotify-i circle { fill: #1DB954; }\n    .musiclinks-btn.spotify .spotify-i path   { fill: #fff; }\n\n     \n    .musiclinks-btn.tidal .tidal-i path { fill: #000; }\n\n    @media (max-width: 480px) {\n      .musiclinks-header { flex-direction: column; align-items: flex-start; }\n      .musiclinks-cover { width: 100%; height: auto; border-radius: 10px; }\n      .musiclinks-meta  { margin-top: 8px; align-items: flex-start; }\n    }\n  </style></p>\n",
+				"content_text": "When one of your favourite singers covers one of your favourite songs...\n{{< musiclinks url=\"https://music.apple.com/nz/album/blue-monday-single/1857749456\" >}}\n",
+				"date_published": "2026-01-08T14:54:05+13:00",
+				"url": "https://wiwi.kiwi/2026/01/08/when-one-of-your-favourite.html",
+				"tags": ["music"]
+			},
+			{
+				"id": "http://iswanz.micro.blog/2026/01/08/did-not-finish-the-fox.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Did not finish: <a href=\"https://micro.blog/books/1250266033\">The Fox Wife</a> by Yangsze Choo 📚\nI usually persevere, but as I get older I don&rsquo;t feel the need anymore.\nThis book was ok - strongly ok - but just didn&rsquo;t hold me. Not a bad book by any means, but just not for me.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/1250266033/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nDid not finish: [The Fox Wife](https://micro.blog/books/1250266033) by Yangsze Choo 📚\nI usually persevere, but as I get older I don't feel the need anymore.\nThis book was ok - strongly ok - but just didn't hold me. Not a bad book by any means, but just not for me.\n",
+				"date_published": "2026-01-08T12:39:57+13:00",
+				"url": "https://wiwi.kiwi/2026/01/08/did-not-finish-the-fox.html"
+			},
+			{
 				"id": "http://iswanz.micro.blog/2026/01/03/surely-the-dullest-game-known.html",
 				
 				"content_html": "<p>Surely the dullest game known to mankind 😬</p>\n<!-- raw HTML omitted -->\n",
@@ -36,7 +62,7 @@
 				"id": "http://iswanz.micro.blog/2025/12/24/awesome-memorial-proudly-created-by.html",
 				
 				"content_html": "<p>Awesome memorial proudly created by my nephew for his mate Sam. Rest easy Slip.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Awesome memorial proudly created by my nephew for his mate Sam. Rest easy Slip.\n\n<img src=\"uploads/2025/103b772676.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Awesome memorial proudly created by my nephew for his mate Sam. Rest easy Slip.\n\n<img src=\"https://wiwi.kiwi/uploads/2025/103b772676.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-12-24T18:26:41+13:00",
 				"url": "https://wiwi.kiwi/2025/12/24/awesome-memorial-proudly-created-by.html",
 				"tags": ["photos"]
