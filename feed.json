@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://iswanz.micro.blog/2026/02/21/currently-reading-shantaram-by-gregory.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780349138978\">Shantaram</a> by Gregory David Roberts 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780349138978/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Shantaram](https://micro.blog/books/9780349138978) by Gregory David Roberts 📚\n",
+				"date_published": "2026-02-21T06:01:40+13:00",
+				"url": "https://wiwi.kiwi/2026/02/21/currently-reading-shantaram-by-gregory.html"
+			},
+			{
+				"id": "http://iswanz.micro.blog/2026/02/21/did-not-finish-butcher-and.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Did not finish: <a href=\"https://micro.blog/books/9780349441559\">Butcher and Blackbird</a> by Brynne Weaver 📚</p>\n<p>Oh gosh absolutely not. What was I thinking?</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780349441559/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nDid not finish: [Butcher and Blackbird](https://micro.blog/books/9780349441559) by Brynne Weaver 📚\n\nOh gosh absolutely not. What was I thinking?\n",
+				"date_published": "2026-02-21T06:00:31+13:00",
+				"url": "https://wiwi.kiwi/2026/02/21/did-not-finish-butcher-and.html"
+			},
+			{
+				"id": "http://iswanz.micro.blog/2026/02/18/currently-reading-butcher-and-blackbird.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780349441559\">Butcher and Blackbird</a> by Brynne Weaver 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780349441559/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Butcher and Blackbird](https://micro.blog/books/9780349441559) by Brynne Weaver 📚\n",
+				"date_published": "2026-02-18T21:36:15+13:00",
+				"url": "https://wiwi.kiwi/2026/02/18/currently-reading-butcher-and-blackbird.html"
+			},
+			{
+				"id": "http://iswanz.micro.blog/2026/02/18/finished-reading-pandoras-star-by.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780345479211\">Pandora&rsquo;s Star</a> by Peter F. Hamilton 📚</p>\n<p>Not necessarily literature, and perhaps could’ve been a little shorter, but this was one hell of a ride. Full fat, which in the right moment can be delicious. Loved it.\n🌤️ 🌤️ 🌤️ 🌤️ 🌤️</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780345479211/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Pandora's Star](https://micro.blog/books/9780345479211) by Peter F. Hamilton 📚\n\nNot necessarily literature, and perhaps could’ve been a little shorter, but this was one hell of a ride. Full fat, which in the right moment can be delicious. Loved it. \n🌤️ 🌤️ 🌤️ 🌤️ 🌤️\n",
+				"date_published": "2026-02-18T21:32:54+13:00",
+				"url": "https://wiwi.kiwi/2026/02/18/finished-reading-pandoras-star-by.html"
+			},
+			{
 				"id": "http://iswanz.micro.blog/2026/02/18/212925.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -35,7 +67,7 @@
 				"id": "http://iswanz.micro.blog/2026/01/22/124755.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2026/2271151e07ab492280c76f639aacc003.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "<img src=\"https://wiwi.kiwi/uploads/2026/2271151e07ab492280c76f639aacc003.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-22T12:47:55+13:00",
 				"url": "https://wiwi.kiwi/2026/01/22/124755.html",
 				"tags": ["photos"]
