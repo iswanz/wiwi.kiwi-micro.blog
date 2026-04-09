@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://iswanz.micro.blog/2026/04/08/currently-reading-battle-royale-remastered.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9781421565989\">Battle Royale: Remastered</a> by Koushun Takami 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781421565989/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Battle Royale: Remastered](https://micro.blog/books/9781421565989) by Koushun Takami 📚\n",
+				"date_published": "2026-04-08T13:18:51+12:00",
+				"url": "https://wiwi.kiwi/2026/04/08/currently-reading-battle-royale-remastered.html"
+			},
+			{
+				"id": "http://iswanz.micro.blog/2026/04/08/finished-reading-shantaram-by-gregory.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780349138978\">Shantaram</a> by Gregory David Roberts 📚</p>\n<p>🐻🐻🐻🐻🦘</p>\n<blockquote>\n<p>&ldquo;you can’t serve God with a gun.&rdquo;</p>\n</blockquote>\n<p>Long, but not bad.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780349138978/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Shantaram](https://micro.blog/books/9780349138978) by Gregory David Roberts 📚\n\n🐻🐻🐻🐻🦘\n\n> \"you can’t serve God with a gun.\"\n\nLong, but not bad. \n",
+				"date_published": "2026-04-08T13:17:47+12:00",
+				"url": "https://wiwi.kiwi/2026/04/08/finished-reading-shantaram-by-gregory.html",
+				"tags": ["review-books"]
+			},
+			{
 				"id": "http://iswanz.micro.blog/2026/04/03/tongan-bliss-we-love-this.html",
 				
 				"content_html": "<p>Tongan bliss. We love this beautiful place ❤️</p>\n<!-- raw HTML omitted -->\n",
@@ -37,7 +54,7 @@
 				"id": "http://iswanz.micro.blog/2026/03/28/kaitaia-bliss.html",
 				
 				"content_html": "<p>Kaitaia bliss</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Kaitaia bliss \n\n<img src=\"uploads/2026/e0d1d08645e541eb81307a836e9aa484.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Kaitaia bliss \n\n<img src=\"https://wiwi.kiwi/uploads/2026/e0d1d08645e541eb81307a836e9aa484.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-28T12:47:42+12:00",
 				"url": "https://wiwi.kiwi/2026/03/28/kaitaia-bliss.html",
 				"tags": ["photos"]
@@ -46,7 +63,7 @@
 				"id": "http://iswanz.micro.blog/2026/03/23/auckland-morning-magic.html",
 				
 				"content_html": "<p>Auckland morning magic</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Auckland morning magic\n\n<img src=\"uploads/2026/7a0d6112ccfb42baae4a6fd0731228fc.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Auckland morning magic\n\n<img src=\"https://wiwi.kiwi/uploads/2026/7a0d6112ccfb42baae4a6fd0731228fc.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-03-23T06:51:40+12:00",
 				"url": "https://wiwi.kiwi/2026/03/23/auckland-morning-magic.html",
 				"tags": ["photos"]
@@ -64,7 +81,7 @@
 				"id": "http://iswanz.micro.blog/2026/03/21/melbourne-you-are-beautiful.html",
 				
 				"content_html": "<p>Melbourne you are beautiful</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Melbourne you are beautiful \n\n<img src=\"https://wiwi.kiwi/uploads/2026/3fb3393486914c8e8e2bcb8f89b950bb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Melbourne you are beautiful \n\n<img src=\"uploads/2026/3fb3393486914c8e8e2bcb8f89b950bb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-21T13:06:21+13:00",
 				"url": "https://wiwi.kiwi/2026/03/21/melbourne-you-are-beautiful.html",
 				"tags": ["photos"]
