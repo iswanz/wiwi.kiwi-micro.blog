@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://iswanz.micro.blog/2026/04/12/this-is-beautiful.html",
+				
+				"content_html": "<p>This is beautiful</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This is beautiful \n\n<img src=\"uploads/2026/c26692a92f0d42debc3c663e9244ee24.png\" width=\"600\" height=\"431\" alt=\"\">\n",
+				"date_published": "2026-04-12T20:45:47+12:00",
+				"url": "https://wiwi.kiwi/2026/04/12/this-is-beautiful.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://iswanz.micro.blog/2026/04/10/currently-reading-one-yellow-eye.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/1668081210\">One Yellow Eye</a> by Leigh Radford 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/1668081210/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [One Yellow Eye](https://micro.blog/books/1668081210) by Leigh Radford 📚\n",
+				"date_published": "2026-04-10T09:48:00+12:00",
+				"url": "https://wiwi.kiwi/2026/04/10/currently-reading-one-yellow-eye.html"
+			},
+			{
+				"id": "http://iswanz.micro.blog/2026/04/10/finished-reading-battle-royale-remastered.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781421565989\">Battle Royale: Remastered</a> by Koushun Takami 📚</p>\n<p>🩸🩸🩸🅾️🅾️</p>\n<p>Recommended by a friend, it unobtrusively passed the time.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781421565989/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Battle Royale: Remastered](https://micro.blog/books/9781421565989) by Koushun Takami 📚\n\n🩸🩸🩸🅾️🅾️\n\nRecommended by a friend, it unobtrusively passed the time.\n",
+				"date_published": "2026-04-10T09:47:07+12:00",
+				"url": "https://wiwi.kiwi/2026/04/10/finished-reading-battle-royale-remastered.html"
+			},
+			{
 				"id": "http://iswanz.micro.blog/2026/04/08/currently-reading-battle-royale-remastered.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9781421565989\">Battle Royale: Remastered</a> by Koushun Takami 📚</p>\n",
@@ -27,7 +52,7 @@
 				"id": "http://iswanz.micro.blog/2026/04/03/tongan-bliss-we-love-this.html",
 				
 				"content_html": "<p>Tongan bliss. We love this beautiful place ❤️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tongan bliss. We love this beautiful place ❤️\n\n<img src=\"uploads/2026/40ae2eddbe8c48919a533a9752cf3f80.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Tongan bliss. We love this beautiful place ❤️\n\n<img src=\"https://wiwi.kiwi/uploads/2026/40ae2eddbe8c48919a533a9752cf3f80.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-03T06:20:26+12:00",
 				"url": "https://wiwi.kiwi/2026/04/03/tongan-bliss-we-love-this.html",
 				"tags": ["photos"]
@@ -36,7 +61,7 @@
 				"id": "http://iswanz.micro.blog/2026/04/02/sunset-sail-with-beautiful-people.html",
 				
 				"content_html": "<p>Sunset sail with beautiful people. And ships!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Sunset sail with beautiful people. And ships! \n\n<img src=\"uploads/2026/e1191547183648db9e9683648f1b6564.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2026/9c271056070a40928a688db31e2d8c52.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2026/64d9850472b64b349809cf0e8f634d7a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Sunset sail with beautiful people. And ships! \n\n<img src=\"https://wiwi.kiwi/uploads/2026/e1191547183648db9e9683648f1b6564.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://wiwi.kiwi/uploads/2026/9c271056070a40928a688db31e2d8c52.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://wiwi.kiwi/uploads/2026/64d9850472b64b349809cf0e8f634d7a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-02T08:56:38+12:00",
 				"url": "https://wiwi.kiwi/2026/04/02/sunset-sail-with-beautiful-people.html",
 				"tags": ["photos"]
@@ -45,7 +70,7 @@
 				"id": "http://iswanz.micro.blog/2026/04/02/the-dreaded-tongan-molokau-ouchy.html",
 				
 				"content_html": "<p>The dreaded Tongan molokau. Ouchy</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The dreaded Tongan molokau. Ouchy\n\n<img src=\"uploads/2026/07c7323515a94d0e85647342d4bcd178.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "The dreaded Tongan molokau. Ouchy\n\n<img src=\"https://wiwi.kiwi/uploads/2026/07c7323515a94d0e85647342d4bcd178.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-02T08:41:59+12:00",
 				"url": "https://wiwi.kiwi/2026/04/02/the-dreaded-tongan-molokau-ouchy.html",
 				"tags": ["photos"]
@@ -81,7 +106,7 @@
 				"id": "http://iswanz.micro.blog/2026/03/21/melbourne-you-are-beautiful.html",
 				
 				"content_html": "<p>Melbourne you are beautiful</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Melbourne you are beautiful \n\n<img src=\"uploads/2026/3fb3393486914c8e8e2bcb8f89b950bb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Melbourne you are beautiful \n\n<img src=\"https://wiwi.kiwi/uploads/2026/3fb3393486914c8e8e2bcb8f89b950bb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-21T13:06:21+13:00",
 				"url": "https://wiwi.kiwi/2026/03/21/melbourne-you-are-beautiful.html",
 				"tags": ["photos"]
