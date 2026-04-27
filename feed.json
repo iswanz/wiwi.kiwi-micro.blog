@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://iswanz.micro.blog/2026/04/27/sd-by-loukeman-very-very.html",
+				
+				"content_html": "<p><strong>Sd-3 by Loukeman</strong>\nVery very good indeed 🥰</p>\n<p><a href=\"https://music.apple.com/nz/album/sd-3/1876897145?l=en-GB\">Apple Music</a> 🍏</p>\n<p><a href=\"https://open.spotify.com/album/1zKvlBFE8d9zNjcBjzitcS\">Spotify</a> 💩</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "**Sd-3 by Loukeman**\nVery very good indeed 🥰\n\n[Apple Music](https://music.apple.com/nz/album/sd-3/1876897145?l=en-GB) 🍏\n\n[Spotify](https://open.spotify.com/album/1zKvlBFE8d9zNjcBjzitcS) 💩\n\n\n<img src=\"uploads/2026/3e0829fbae.jpg\" width=\"600\" height=\"595\" alt=\"\">\n",
+				"date_published": "2026-04-27T16:33:08+12:00",
+				"url": "https://wiwi.kiwi/2026/04/27/sd-by-loukeman-very-very.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://iswanz.micro.blog/2026/04/16/oh-this-is-just-lovely.html",
 				
 				"content_html": "<p>Oh this is just lovely. And that voice! James Blake is awesome\n<iframe style=\"border-radius:12px; margin-top: 0rem; margin-bottom: 0rem;\" src=\"https://open.spotify.com/embed/album/16tV8wTfqPyA6Cu5dwJJPc?theme=0\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe></p>\n",
@@ -42,7 +51,7 @@
 				"id": "http://iswanz.micro.blog/2026/04/12/this-is-beautiful.html",
 				
 				"content_html": "<p>This is beautiful</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is beautiful \n\n<img src=\"uploads/2026/c26692a92f0d42debc3c663e9244ee24.png\" width=\"600\" height=\"431\" alt=\"\">\n",
+				"content_text": "This is beautiful \n\n<img src=\"https://wiwi.kiwi/uploads/2026/c26692a92f0d42debc3c663e9244ee24.png\" width=\"600\" height=\"431\" alt=\"\">\n",
 				"date_published": "2026-04-12T20:45:47+12:00",
 				"url": "https://wiwi.kiwi/2026/04/12/this-is-beautiful.html",
 				"tags": ["photos"]
