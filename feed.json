@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://iswanz.micro.blog/2026/05/03/this-blows-my-mind.html",
+				
+				"content_html": "<p>This blows my mind</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This blows my mind\n\n<img src=\"uploads/2026/bef0783bb55547edaf9cbdbd25d15a6a.jpg\" width=\"600\" height=\"249\" alt=\"\">\n",
+				"date_published": "2026-05-03T18:56:00+12:00",
+				"url": "https://wiwi.kiwi/2026/05/03/this-blows-my-mind.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://iswanz.micro.blog/2026/05/01/210617.html",
 				
 				"content_html": "<p>This is incredible:</p>\n<p><a href=\"https://youtu.be/x6_mbnsh6VU?si=D7iUGehtEE5hsvpV\">youtu.be/x6_mbnsh6&hellip;</a></p>\n",
