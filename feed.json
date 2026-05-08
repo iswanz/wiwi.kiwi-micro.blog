@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://iswanz.micro.blog/2026/05/09/this-game-is-something-very.html",
+				
+				"content_html": "<p>This game is something very special indeed.</p>\n<p><a href=\"https://mixtape.game\">Mixtape</a> on PS5.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "This game is something very special indeed.\n\n[Mixtape](https://mixtape.game) on PS5.\n\n<img src=\"uploads/2026/74465e4c0d.jpg\" width=\"600\" height=\"337\" alt=\"\"><img src=\"uploads/2026/5e111780f8.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-05-09T08:41:20+12:00",
+				"url": "https://wiwi.kiwi/2026/05/09/this-game-is-something-very.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://iswanz.micro.blog/2026/05/06/currently-reading-juice-by-tim.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/103505082X\">Juice</a> by Tim Winton 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/103505082X/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Juice](https://micro.blog/books/103505082X) by Tim Winton 📚\n",
+				"date_published": "2026-05-06T17:56:01+12:00",
+				"url": "https://wiwi.kiwi/2026/05/06/currently-reading-juice-by-tim.html"
+			},
+			{
+				"id": "http://iswanz.micro.blog/2026/05/06/finished-reading-there-is-no.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780593983751\">There Is No Antimemetics Division</a> by qntm 📚</p>\n<p>💭💭💭💭🤔 4/5</p>\n<p>Every now and then a book comes along and really makes you <em>think</em>. This was very well written with some very mind-bending ideas. Recommended.</p>\n<blockquote>\n<p>&ldquo;Aside from its ability to communicate telepathically, U-2200’s propensity to consume the part of a human’s memory where they remember how to ride a bicycle is its sole confirmed anomalous property.&rdquo;</p>\n</blockquote>\n<blockquote>\n<p>&ldquo;A true description of what U-3125 is, or even an allusion to what it is, constitutes a containment breach and a lethal indirect cognitohazard.&rdquo;</p>\n</blockquote>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780593983751/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [There Is No Antimemetics Division](https://micro.blog/books/9780593983751) by qntm 📚\n\n💭💭💭💭🤔 4/5\n\nEvery now and then a book comes along and really makes you _think_. This was very well written with some very mind-bending ideas. Recommended.\n\n> \"Aside from its ability to communicate telepathically, U-2200’s propensity to consume the part of a human’s memory where they remember how to ride a bicycle is its sole confirmed anomalous property.\"\n\n> \"A true description of what U-3125 is, or even an allusion to what it is, constitutes a containment breach and a lethal indirect cognitohazard.\"\n",
+				"date_published": "2026-05-06T17:53:21+12:00",
+				"url": "https://wiwi.kiwi/2026/05/06/finished-reading-there-is-no.html"
+			},
+			{
 				"id": "http://iswanz.micro.blog/2026/05/05/poem-by-ana-roxanne-this.html",
 				
 				"content_html": "<p><strong>Poem 1 by Ana Roxanne</strong></p>\n<p>This is something very special. Sit down and listen to it with someone you love.</p>\n<p><a href=\"https://music.apple.com/nz/album/poem-1/1876977313?l=en-GB\">Apple Music</a> 🍏\n<a href=\"https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr?si=lIFDlC2aTlCwzWv6c-w-KQ\">Spotify</a> 💩</p>\n<!-- raw HTML omitted -->\n",
@@ -36,7 +61,7 @@
 				"id": "http://iswanz.micro.blog/2026/05/03/perfect-sunday-bliss.html",
 				
 				"content_html": "<p>Perfect Sunday bliss 💜</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Perfect Sunday bliss 💜\n\n<img src=\"uploads/2026/457027d7b6f642349bd3f596cc98ff53.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Perfect Sunday bliss 💜\n\n<img src=\"https://wiwi.kiwi/uploads/2026/457027d7b6f642349bd3f596cc98ff53.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-05-03T19:31:20+12:00",
 				"url": "https://wiwi.kiwi/2026/05/03/perfect-sunday-bliss.html",
 				"tags": ["photos"]
@@ -45,7 +70,7 @@
 				"id": "http://iswanz.micro.blog/2026/05/03/this-blows-my-mind.html",
 				
 				"content_html": "<p>This blows my mind</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This blows my mind\n\n<img src=\"uploads/2026/bef0783bb55547edaf9cbdbd25d15a6a.jpg\" width=\"600\" height=\"249\" alt=\"\">\n",
+				"content_text": "This blows my mind\n\n<img src=\"https://wiwi.kiwi/uploads/2026/bef0783bb55547edaf9cbdbd25d15a6a.jpg\" width=\"600\" height=\"249\" alt=\"\">\n",
 				"date_published": "2026-05-03T18:56:00+12:00",
 				"url": "https://wiwi.kiwi/2026/05/03/this-blows-my-mind.html",
 				"tags": ["photos"]
@@ -62,7 +87,7 @@
 				"id": "http://iswanz.micro.blog/2026/04/28/no-expections.html",
 				
 				"content_html": "<p>No expections</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "No expections \n\n<img src=\"https://wiwi.kiwi/uploads/2026/ed2099d629294c278ae20e28ca27e57f.jpg\" width=\"600\" height=\"440\" alt=\"\">\n",
+				"content_text": "No expections \n\n<img src=\"uploads/2026/ed2099d629294c278ae20e28ca27e57f.jpg\" width=\"600\" height=\"440\" alt=\"\">\n",
 				"date_published": "2026-04-28T18:36:41+12:00",
 				"url": "https://wiwi.kiwi/2026/04/28/no-expections.html",
 				"tags": ["photos"]
@@ -71,7 +96,7 @@
 				"id": "http://iswanz.micro.blog/2026/04/28/good-to-know.html",
 				
 				"content_html": "<p>Good to know</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Good to know \n\n<img src=\"https://wiwi.kiwi/uploads/2026/c4d197c5066545e2944a55ec6534e8a3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Good to know \n\n<img src=\"uploads/2026/c4d197c5066545e2944a55ec6534e8a3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-28T18:34:47+12:00",
 				"url": "https://wiwi.kiwi/2026/04/28/good-to-know.html",
 				"tags": ["photos"]
@@ -80,7 +105,7 @@
 				"id": "http://iswanz.micro.blog/2026/04/28/love-this-beautiful-city-hamiltonnz.html",
 				
 				"content_html": "<p>Love this beautiful city #hamiltonnz</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Love this beautiful city #hamiltonnz\n\n<img src=\"https://wiwi.kiwi/uploads/2026/94132ead82b3493cacfd195bef3913d1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Love this beautiful city #hamiltonnz\n\n<img src=\"uploads/2026/94132ead82b3493cacfd195bef3913d1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-28T17:53:36+12:00",
 				"url": "https://wiwi.kiwi/2026/04/28/love-this-beautiful-city-hamiltonnz.html",
 				"tags": ["photos"]
@@ -89,7 +114,7 @@
 				"id": "http://iswanz.micro.blog/2026/04/27/sd-by-loukeman-very-very.html",
 				
 				"content_html": "<p><strong>Sd-3 by Loukeman</strong>\nVery very good indeed 🥰</p>\n<p><a href=\"https://music.apple.com/nz/album/sd-3/1876897145?l=en-GB\">Apple Music</a> 🍏</p>\n<p><a href=\"https://open.spotify.com/album/1zKvlBFE8d9zNjcBjzitcS\">Spotify</a> 💩</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "**Sd-3 by Loukeman**\nVery very good indeed 🥰\n\n[Apple Music](https://music.apple.com/nz/album/sd-3/1876897145?l=en-GB) 🍏\n\n[Spotify](https://open.spotify.com/album/1zKvlBFE8d9zNjcBjzitcS) 💩\n\n\n<img src=\"https://wiwi.kiwi/uploads/2026/3e0829fbae.jpg\" width=\"600\" height=\"595\" alt=\"\">\n",
+				"content_text": "**Sd-3 by Loukeman**\nVery very good indeed 🥰\n\n[Apple Music](https://music.apple.com/nz/album/sd-3/1876897145?l=en-GB) 🍏\n\n[Spotify](https://open.spotify.com/album/1zKvlBFE8d9zNjcBjzitcS) 💩\n\n\n<img src=\"uploads/2026/3e0829fbae.jpg\" width=\"600\" height=\"595\" alt=\"\">\n",
 				"date_published": "2026-04-27T16:33:08+12:00",
 				"url": "https://wiwi.kiwi/2026/04/27/sd-by-loukeman-very-very.html",
 				"tags": ["photos"]
