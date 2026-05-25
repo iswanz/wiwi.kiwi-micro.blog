@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://iswanz.micro.blog/2026/05/25/may.html",
+				
+				"content_html": "<p>18 May 1980 🖤</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "18 May 1980 🖤\n\n<img src=\"uploads/2026/06377d0eeb1a43608eaa3f2755428941.jpg\" width=\"398\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-05-25T16:15:17+12:00",
+				"url": "https://wiwi.kiwi/2026/05/25/may.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://iswanz.micro.blog/2026/05/20/currently-reading-our-share-of.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780451495150\">Our Share Of Night</a> by Mariana Enriquez 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780451495150/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Our Share Of Night](https://micro.blog/books/9780451495150) by Mariana Enriquez 📚\n",
+				"date_published": "2026-05-20T10:32:09+12:00",
+				"url": "https://wiwi.kiwi/2026/05/20/currently-reading-our-share-of.html"
+			},
+			{
+				"id": "http://iswanz.micro.blog/2026/05/20/finished-reading-juice-by-tim.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/103505082X\">Juice</a> by Tim Winton 📚</p>\n<p>🥵🥵🥵🥵🥵 5/5 - Superb.</p>\n<p>Fantastic book, and a terrifying vision of the future.</p>\n<blockquote>\n<p>&ldquo;And what really stung was this. All these fools and criminals? They’re our ancestors. The future they ate was ours. The leftovers? Well, that’s our world. Such was our inheritance. To be robbed. Of food, water, safety. We were robbed of memory, comrade, and of the courage to think&rdquo;.</p>\n</blockquote>\n<blockquote>\n<p>&ldquo;These were not letters designed to persuade. They were reminders to myself that what I’d had was real and beautiful, and they were a means by which I could escape the rage of victimhood and claim my great luck in having had those years&rdquo;.</p>\n</blockquote>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/103505082X/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Juice](https://micro.blog/books/103505082X) by Tim Winton 📚\n\n🥵🥵🥵🥵🥵 5/5 - Superb.\n\nFantastic book, and a terrifying vision of the future.\n\n> \"And what really stung was this. All these fools and criminals? They’re our ancestors. The future they ate was ours. The leftovers? Well, that’s our world. Such was our inheritance. To be robbed. Of food, water, safety. We were robbed of memory, comrade, and of the courage to think\".\n\n> \"These were not letters designed to persuade. They were reminders to myself that what I’d had was real and beautiful, and they were a means by which I could escape the rage of victimhood and claim my great luck in having had those years\".\n",
+				"date_published": "2026-05-20T10:30:07+12:00",
+				"url": "https://wiwi.kiwi/2026/05/20/finished-reading-juice-by-tim.html"
+			},
+			{
 				"id": "http://iswanz.micro.blog/2026/05/14/why-tho.html",
 				
 				"content_html": "<p>Why tho?</p>\n<!-- raw HTML omitted -->\n",
@@ -44,7 +69,7 @@
 				"id": "http://iswanz.micro.blog/2026/05/05/poem-by-ana-roxanne-this.html",
 				
 				"content_html": "<p><strong>Poem 1 by Ana Roxanne</strong></p>\n<p>This is something very special. Sit down and listen to it with someone you love.</p>\n<p><a href=\"https://music.apple.com/nz/album/poem-1/1876977313?l=en-GB\">Apple Music</a> 🍏\n<a href=\"https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr?si=lIFDlC2aTlCwzWv6c-w-KQ\">Spotify</a> 💩</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "**Poem 1 by Ana Roxanne**\n\nThis is something very special. Sit down and listen to it with someone you love.\n\n[Apple Music](https://music.apple.com/nz/album/poem-1/1876977313?l=en-GB) 🍏\n[Spotify](https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr?si=lIFDlC2aTlCwzWv6c-w-KQ) 💩\n\n<img src=\"uploads/2026/5be9b3e2ff.jpg\" width=\"596\" height=\"600\" alt=\"\">\n",
+				"content_text": "**Poem 1 by Ana Roxanne**\n\nThis is something very special. Sit down and listen to it with someone you love.\n\n[Apple Music](https://music.apple.com/nz/album/poem-1/1876977313?l=en-GB) 🍏\n[Spotify](https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr?si=lIFDlC2aTlCwzWv6c-w-KQ) 💩\n\n<img src=\"https://wiwi.kiwi/uploads/2026/5be9b3e2ff.jpg\" width=\"596\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-05-05T20:53:02+12:00",
 				"url": "https://wiwi.kiwi/2026/05/05/poem-by-ana-roxanne-this.html",
 				"tags": ["photos"]
@@ -53,7 +78,7 @@
 				"id": "http://iswanz.micro.blog/2026/05/05/084815.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2026/9761d29cca3a4154a2a5f99d226657c6.jpg\" width=\"524\" height=\"600\" alt=\"\">\n",
+				"content_text": "<img src=\"https://wiwi.kiwi/uploads/2026/9761d29cca3a4154a2a5f99d226657c6.jpg\" width=\"524\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-05-05T08:48:15+12:00",
 				"url": "https://wiwi.kiwi/2026/05/05/084815.html",
 				"tags": ["photos"]
