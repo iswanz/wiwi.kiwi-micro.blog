@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://iswanz.micro.blog/2026/07/11/peter-hook-in-auckland.html",
+				
+				"content_html": "<p>Peter Hook in Auckland!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Peter Hook in Auckland! \n\n<img src=\"uploads/2026/ca7ce3ed79dd4819b9ab38b844d3f652.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-07-11T20:07:25+12:00",
+				"url": "https://wiwi.kiwi/2026/07/11/peter-hook-in-auckland.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://iswanz.micro.blog/2026/07/06/madonna-confessions-this-is-hugely.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p><strong>Madonna - Confessions II</strong></p>\n<p>This is (hugely unexpectedly) really good dance music. Wasn&rsquo;t expecting to love this.</p>\n<p><a href=\"https://music.apple.com/nz/album/confessions-ii/1892545087\">Apple Music</a> 🍏:\n<div id=\"apple-music-embed\">\n  <iframe allow=\"autoplay *; encrypted-media *;\" frameborder=\"0\" height=\"450\" style=\"width: 100%;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https://embed.music.apple.com/nz/album/confessions-ii/1892545087?theme=dark\"></iframe>\n</div></p>\n<p><a href=\"https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ\">Spotify</a> 💩:</p>\n<iframe style=\"border-radius:12px; margin-top: 0rem; margin-bottom: 0rem;\" src=\"https://open.spotify.com/embed/album/1CWY6mfnuLlF4BKRLFcUDQ?theme=0\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>\n",
@@ -47,7 +56,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780307279866\">Soon I Will be Invincible</a> by Austin Grossman 📚</p>\n<p>🦹 🦹🦹🫤🫤 (3/5 stars)</p>\n<p>This wasn’t as much fun as it should have been, and definitely didn’t stick the landing.</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780307279866/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Soon I Will be Invincible](https://micro.blog/books/9780307279866) by Austin Grossman 📚\n\n🦹 🦹🦹🫤🫤 (3/5 stars)\n\nThis wasn’t as much fun as it should have been, and definitely didn’t stick the landing. \n",
 				"date_published": "2026-06-25T17:40:21+12:00",
-				"url": "https://wiwi.kiwi/2026/06/25/finished-reading-soon-i-will.html"
+				"url": "https://wiwi.kiwi/2026/06/25/finished-reading-soon-i-will.html",
+				"tags": ["books"]
 			},
 			{
 				"id": "http://iswanz.micro.blog/2026/06/22/pure-magic-day-in-the.html",
